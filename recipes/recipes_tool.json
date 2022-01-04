@@ -9,7 +9,33 @@
     "difficulty": 2,
     "time": "20 m",
     "autolearn": true,
-    "using": [ [ "cordage_short", 1 ], [ "glazing", 1 ], [ "earthenware_firing", 40 ] ],
+    "using": [ [ "glazing", 1 ], [ "earthenware_firing", 40 ] ],
     "components": [ [ [ "water", 1 ], [ "water_clean", 1 ] ], [ [ "clay_lump", 4 ] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "flechette_mold",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TOOLS",
+    "skill_used": "fabrication",
+    "skills_required": [ "survival", 1 ],
+    "difficulty": 2,
+    "time": "45 m",
+    "autolearn": true,
+    "using": [ [ "glazing", 1 ], [ "earthenware_firing", 40 ] ],
+    "components": [ [ [ "water", 1 ], [ "water_clean", 1 ] ], [ [ "clay_lump", 4 ] ], [ ["wire", 1] ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "shell_press",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_TOOLS",
+    "skill_used": "fabrication",
+    "skills_required": [ "survival", 1 ],
+    "difficulty": 3,
+    "time": "45 m",
+    "autolearn": true,
+    "qualities": [  { "id": "SAW_W", "level": 1 }, { "id": "HAMMER", "level": 2 }, { "id": "CUT", "level": 1 } ], 
+    "components": [ [ [ "2x4", 2 ], [ "stick", 4 ] ], [ [ "nail", 10 ] ], [ [ "steel_tiny", 2, "LIST" ] ] ]
   }
 ]

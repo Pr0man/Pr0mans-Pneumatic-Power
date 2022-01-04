@@ -15,5 +15,39 @@
     "symbol": "/",
     "color": "brown",
     "flags": [ "BELT_CLIP", "NONCONDUCTIVE", "TRADER_AVOID" ]
+  },
+  {
+    "id": "flechette_mold",
+    "type": "GENERIC",
+    "category": "tools",
+    "name": { "str": "flechette mold" },
+    "description": "This is a mold with 25 identical indentations meant to be poured with molten metal and then cooled. This mold produces standardized pellets to be fired from air guns.",
+    "weight": "1000 g",
+    "volume": "1350 ml",
+    "price": 1000,
+    "price_postapoc": 100,
+    "to_hit": -1,
+    "bashing": 3,
+    "material": [ "clay" ],
+    "symbol": "/",
+    "color": "brown",
+    "flags": [ "BELT_CLIP", "NONCONDUCTIVE", "TRADER_AVOID" ]
+  },
+  {
+    "id": "shell_press",
+    "type": "GENERIC",
+    "category": "tools",
+    "name": { "str": "handmade shell press" },
+    "description": "A simple shell press meant to create powderless shotshells out of paper. A plank has been sawn to the shape of a pin and is movable, while the press board has an indent with the diameter of a nailhead to place paper into. By pressing down the top part, the paper will be formed into the shell by the pin, ready to be cut out.",
+    "weight": "1750 g",
+    "volume": "2800 ml",
+    "price": 1000,
+    "price_postapoc": 100,
+    "to_hit": -1,
+    "bashing": 3,
+    "material": [ "wood", "steel" ],
+    "symbol": "/",
+    "color": "brown",
+    "flags": [ "NONCONDUCTIVE", "TRADER_AVOID" ]
   }
 ]

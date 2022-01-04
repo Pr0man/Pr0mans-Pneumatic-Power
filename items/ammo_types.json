@@ -4,5 +4,11 @@
     "id": "rifle_pellet",
     "name": "spring rifle ammo",
     "default": "rifle_pellet_ball"
+  },
+  {
+    "type": "ammunition_type",
+    "id": "shotshell",
+    "name": "shotshells",
+    "default": "shotshell_ball"
   }
 ]

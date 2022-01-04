@@ -70,7 +70,7 @@
     "price": "1000 USD",
     "price_postapoc": "69 USD",
     "material": [ "steel", "wood" ],
-    "flags": [ "NON-FOULING", "NEEDS_NO_LUBE" ],
+    "flags": [ "STR_RELOAD", "NON-FOULING", "NEEDS_NO_LUBE" ],
     "skill": "rifle",
     "ammo": [ "rifle_pellet" ],
     "weight": "2500 g",
@@ -85,6 +85,36 @@
     "clip_size": 1,
     "reload": 1450,
     "loudness": 6,
-    "valid_mod_locations": [ [ "sling", 1 ], [ "grip", 1 ], [ "sights", 1 ], [ "stock", 1 ], [ "underbarrel", 1 ] ]
-  }  
+    "valid_mod_locations": [ [ "sling", 1 ], [ "grip", 1 ], [ "sights", 1 ], [ "stock", 1 ], [ "rail mount", 1 ] ]
+  },
+  {
+    "id": "pneumatic_shotgun",
+    "looks_like": "pipe_double_shotgun",
+    "type": "GUN",
+    "reload_noise_volume": 6,
+    "symbol": "(",
+    "color": "dark_gray",
+    "name": { "str": "pneumatic shotgun" },
+    "description": "A double-barreled pneumatic shotgun made from spare parts, utilizing two small pressurized tanks that are hand-compressed. While its firepower is comparatively low to commercially sold shotguns, ammo is easy to make and it still packs a punch.",
+    "price": "500 USD",
+    "material": [ "steel", "wood" ],
+    "flags": [ "RELOAD_ONE", "STR_RELOAD", "NON-FOULING", "NEEDS_NO_LUBE" ],
+    "skill": "shotgun",
+    "ammo": "shotshell",
+    "weight": "2740 g",
+    "volume": "1750 ml",
+    "price_postapoc": "50 USD",
+    "bashing": 8,
+    "to_hit": -1,
+    "ranged_damage": { "damage_type": "stab", "amount": 2, "armor_penetration": 1 },
+    "range": 5,
+    "dispersion": 500,
+    "durability": 7,
+    "modes": [ [ "DEFAULT", "single", 1 ], [ "DOUBLE", "double", 2 ] ],
+    "clip_size": 2,
+    "reload": 2000,
+    "loudness": 14,
+    "valid_mod_locations": [ [ "grip", 1 ], [ "sights", 1 ], [ "sling", 1 ], [ "stock", 1 ], [ "rail mount", 1 ]
+    ]
+  }
 ]
