@@ -1,0 +1,21 @@
+[
+  {
+    "type": "AMMO",
+    "id": "rifle_pellet_ball",
+    "name": { "str": "spring rifle ball", "str_pl": "spring rifle balls" },
+    "description": "Solid ball rounds for use in a spring-piston rifle. Lightweight and durable.",
+    "price": 150,
+    "price_postapoc": 15,
+    "symbol": "=",
+    "color": "dark_gray",
+    "material": "steel",
+    "volume": "125 ml",
+    "weight": "25 g",
+    "ammo_type": "rifle_pellet",
+    "damage": { "damage_type": "stab", "amount": 35, "armor_penetration": 1 },
+    "range": 25,
+    "dispersion": 25,
+    "loudness": 4,
+    "count": 25
+  }
+]

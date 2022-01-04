@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "PPP",
+    "name": "Pr0mans Pneumatic Power",
+    "authors": [ "Pr0man" ],
+    "description": "Rebalancing and additions to existing pneumatic weapons to make them more feasible in the mid game and to flesh out their existence further.",
+    "version": "DDA version, update 01/04/2022",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]

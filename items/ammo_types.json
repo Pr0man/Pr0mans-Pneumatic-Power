@@ -1,0 +1,8 @@
+[
+  {
+    "type": "ammunition_type",
+    "id": "rifle_pellet",
+    "name": "spring rifle ammo",
+    "default": "rifle_pellet_ball"
+  }
+]

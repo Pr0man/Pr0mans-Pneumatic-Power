@@ -1,0 +1,19 @@
+[
+  {
+    "id": "pellet_mold",
+    "type": "GENERIC",
+    "category": "tools",
+    "name": { "str": "pellet mold" },
+    "description": "This is a mold with 25 identical indentations meant to be poured with molten metal and then cooled. This mold produces standardized pellets to be fired from air guns.",
+    "weight": "1000 g",
+    "volume": "1350 ml",
+    "price": 700,
+    "price_postapoc": 100,
+    "to_hit": -1,
+    "bashing": 3,
+    "material": [ "clay" ],
+    "symbol": "/",
+    "color": "brown",
+    "flags": [ "BELT_CLIP", "NONCONDUCTIVE", "TRADER_AVOID" ]
+  }
+]
