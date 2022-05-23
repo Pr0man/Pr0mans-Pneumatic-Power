@@ -10,7 +10,7 @@
 	"price": 500,
 	"price_postapoc": 50,
 	"material": "steel",
-	"ammo_type": "pressurized_shot_s"
+	"ammo_type": "pressurized_shot"
 	"capacity": 10,
 	"reload_time": 12000,
 	"flags": ["MAG_EJECT", "MAG_BULKY", "NO_UNLOAD"]

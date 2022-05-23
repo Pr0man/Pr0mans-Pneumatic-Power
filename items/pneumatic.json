@@ -114,8 +114,7 @@
     "clip_size": 2,
     "reload": 2000,
     "loudness": 10,
-    "valid_mod_locations": [ [ "grip", 1 ], [ "sights", 1 ], [ "sling", 1 ], [ "stock", 1 ], [ "rail mount", 1 ]
-    ]
+    "valid_mod_locations": [ [ "grip", 1 ], [ "sights", 1 ], [ "sling", 1 ], [ "stock", 1 ], [ "rail mount", 1 ] ]
   },
   {
     "id": "pneumatic_combat_shotgun",
@@ -125,7 +124,7 @@
     "symbol": "(",
     "color": "dark_gray",
     "name": { "str": "pneumatic combat shotgun" },
-    "description": "A shotgun utilizing a comparatively big magazine to accomodate for a pressurized chamber within it. This beast hits hard and fast, while being still quiet to fire.",
+    "description": "A homemade shotgun utilizing a comparatively big magazine to accomodate for a pressurized chamber within it. This beast hits hard and fast, while being still quiet to fire.",
     "price": "500 USD",
     "material": [ "steel", "wood" ],
     "flags": [ "NON-FOULING", "NEEDS_NO_LUBE" ],
@@ -144,7 +143,7 @@
     "clip_size": 2,
     "reload": 250,
     "loudness": 10,
-    "valid_mod_locations": [ [ "grip", 1 ], [ "sights", 1 ], [ "sling", 1 ], [ "stock", 1 ], [ "rail mount", 1 ],
+    "valid_mod_locations": [ [ "grip", 1 ], [ "sights", 1 ], [ "sling", 1 ], [ "stock", 1 ], [ "rail mount", 1 ] ],
 	"magazine_well": "250 ml",
     "magazines": [ [ "pressurized_shot_s", [ "combat_shotgun_magazine" ] ] ]
   }
