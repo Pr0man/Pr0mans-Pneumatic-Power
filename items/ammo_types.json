@@ -10,5 +10,11 @@
     "id": "shotshell",
     "name": "shotshells",
     "default": "shotshell_ball"
+  },
+  {
+    "type": "ammunition_type",
+	"id": "pressurized_shot",
+	"name": "pressurized shot"
+	"default": "pessure_shot_ball"
   }
 ]
