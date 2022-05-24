@@ -120,7 +120,7 @@
     "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "HAMMER", "level": 1 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "DRILL", "level": 2 } ],
 	"using": [ [ "soldering_standard", 10 ], [ "welding_standard", 15 ] ],
     "components": [
-	[ [ "sheet_metal_small", 4 ] ]
+	[ [ "sheet_metal_small", 4 ] ],
 	[ [ "scrap", 2 ] ],
 	[ [ "spring", 1 ] ],
     [ [	"metal_tank_little", 1 ] ]

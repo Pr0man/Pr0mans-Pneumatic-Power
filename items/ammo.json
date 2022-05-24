@@ -34,12 +34,12 @@
     "cutting": 1,
     "ammo_type": "shotshell",
     "looks_like": "shot_scrap",
-    "range": 10,
+    "range": 0,
     "damage": { "damage_type": "bullet", "amount": 20 },
     "dispersion": 250,
     "loudness": 0,
     "count": 25,
-	"shape": [ "cone", { "half_angle": 10, "length": 8 } ],
+	"shape": [ "cone", { "half_angle": 10, "length": 10 } ],
     "extend": { "effects": [ "NOGIB" ] }
   },
   {
@@ -93,7 +93,7 @@
     "price_postapoc": 250,
     "name": { "str": "pressurized shotshell" },
     "symbol": "=",
-    "color": "green",
+    "color": "white",
     "description": "An assortment of shotshells with appropriate tank, for insertion into a compatible magazine.",
     "material": [ "steel" ],
     "volume": "250 ml",
@@ -102,12 +102,12 @@
     "cutting": 1,
     "ammo_type": "pressurized_shot",
     "looks_like": "shot_scrap",
-    "range": 12,
+    "range": 0,
     "damage": { "damage_type": "bullet", "amount": 25, "armor_penetration": 1, "armor_multiplier": 1.25 },
     "dispersion": 150,
     "loudness": 0,
-	"shape": [ "cone", { "half_angle": 20, "length": 12 } ],
-    "extend": { "effects": [ "NOGIB" ] 
+	"shape": [ "cone", { "half_angle": 20, "length": 15 } ],
+    "extend": { "effects": [ "NOGIB" ] },
     "count": 25
   },
   {
@@ -131,5 +131,5 @@
     "dispersion": 50,
     "loudness": 0,
     "count": 25
-  },
+  }
 ]

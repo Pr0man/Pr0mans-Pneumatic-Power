@@ -14,7 +14,7 @@
   {
     "type": "ammunition_type",
 	"id": "pressurized_shot",
-	"name": "pressurized shot"
-	"default": "pessure_shot_ball"
+	"name": "pressurized shot",
+	"default": "pressurized_shot_ball"
   }
 ]
