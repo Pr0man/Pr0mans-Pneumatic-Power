@@ -85,6 +85,6 @@
     "loudness": 10,
     "valid_mod_locations": [ [ "grip", 1 ], [ "sights", 1 ], [ "sling", 1 ], [ "stock", 1 ], [ "rail mount", 1 ] ],
 	"magazine_well": "250 ml",
-    "magazines": [ [ "pressurized_shot", [ "combat_shotgun_magazine" ] ] ]
+    "magazines": [ [ "pressurized_shot", [ "pressure_shotgun_magazine" ] ] ]
   }
 ]
