@@ -7,8 +7,8 @@
   },
   {
     "type": "ammunition_type",
-    "id": "shotshell",
-    "name": "shotshells",
+    "id": "papershell",
+    "name": "papershells",
     "default": "shotshell_ball"
   },
   {

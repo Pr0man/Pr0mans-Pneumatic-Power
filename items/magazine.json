@@ -1,10 +1,10 @@
 [
   {
-    "id": "combat_shotgun_magazine",
+    "id": "pressure_shotgun_magazine",
 	"looks-like": "stanag30",
 	"type": "MAGAZINE",
-	"name": {"str": "combat shotgun magazine" },
-	"description": "A bulky magazine, big enough to not only accodomade the spring-loaded shotshells, but to also carry the pressurized air tank. Due to this, it becomes unwieldy to store.",
+	"name": {"str": "pressurized shotgun magazine" },
+	"description": "A bulky magazine, big enough to not only accodomade the spring-loaded papershells, but to also carry the pressurized air tank. Due to this, it becomes unwieldy to store.",
 	"symbol": ")",
 	"weight": "1000g",
 	"volume": "250ml",
