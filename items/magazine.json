@@ -1,7 +1,7 @@
 [
   {
     "id": "pressure_shotgun_magazine",
-	"looks-like": "stanag30",
+	"looks_like": "stanag30",
 	"type": "MAGAZINE",
 	"name": {"str": "pressurized shotgun magazine" },
 	"description": "A bulky magazine, big enough to not only accodomade the spring-loaded papershells, but to also carry the pressurized air tank. Due to this, it becomes unwieldy to store.",

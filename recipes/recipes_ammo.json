@@ -108,7 +108,7 @@
     ]
   },
   {
-    "result": "combat_shotgun_magazine",
+    "result": "pressure_shotgun_magazine",
     "type": "recipe",
     "category": "CC_WEAPON",
     "subcategory": "CSC_WEAPON_MAGAZINES",

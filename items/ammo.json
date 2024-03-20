@@ -16,7 +16,8 @@
     "range": 25,
     "dispersion": 125,
     "loudness": 4,
-    "count": 25
+    "count": 25,
+	"effects": [ "NEVER_MISFIRES", "NON_FOULING" ]
   },
   {
     "type": "AMMO",
@@ -40,7 +41,7 @@
     "loudness": 0,
     "count": 25,
 	"shape": [ "cone", { "half_angle": 10, "length": 15 } ],
-    "extend": { "effects": [ "NOGIB" ] }
+    "extend": { "effects": [ "NOGIB", "NON_FOULING" ] }
   },
   {
     "type": "AMMO",
@@ -62,7 +63,8 @@
     "damage": { "damage_type": "bullet", "amount": 40, "armor_penetration": 5, "armor_multiplier": 1.25 },
     "dispersion": 80,
     "loudness": 0,
-    "count": 25
+    "count": 25,
+	"effects": [ "NEVER_MISFIRES", "NON_FOULING" ]
   },
   {
     "type": "AMMO",
@@ -84,7 +86,8 @@
     "damage": { "damage_type": "bullet", "amount": 25, "armor_penetration": 10, "armor_multiplier": 0.5 },
     "dispersion": 50,
     "loudness": 0,
-    "count": 25
+    "count": 25,
+	"effects": [ "NEVER_MISFIRES", "NON_FOULING" ]
   },
   {
     "type": "AMMO",
@@ -107,7 +110,7 @@
     "dispersion": 150,
     "loudness": 0,
 	"shape": [ "cone", { "half_angle": 20, "length": 22 } ],
-    "extend": { "effects": [ "NOGIB" ] },
+    "extend": { "effects": [ "NOGIB", "NEVER_MISFIRES", "NON_FOULING" ] },
     "count": 25
   },
   {
@@ -130,6 +133,7 @@
     "damage": { "damage_type": "bullet", "amount": 50, "armor_penetration": 5, "armor_multiplier": 1.0 },
     "dispersion": 50,
     "loudness": 0,
-    "count": 25
+    "count": 25,
+	"effects": [ "NEVER_MISFIRES", "NON_FOULING" ]
   }
 ]
