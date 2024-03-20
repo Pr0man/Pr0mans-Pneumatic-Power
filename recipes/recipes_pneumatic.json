@@ -8,8 +8,8 @@
     "difficulty": 3,
     "time": "3 h 30 m",
     "autolearn": true,
-    "using": [ [ "soldering_standard", 10 ], [ "welding_standard", 15 ] ],
-    "qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "HAMMER", "level": 3 } ],
+    "using": [ [ "soldering_standard", 10 ] ],
+    "qualities": [ { "id": "SAW_M", "level": 1 }, { "id": "SCREW", "level": 1 }, { "id": "HAMMER", "level": 2 } ],
 	"components": [
 	  [ [ "pipe", 2 ] ],
 	  [ [ "2x4", 1 ], [ "stick", 2 ] ],
@@ -27,12 +27,12 @@
 	"difficulty": 3,
 	"time": "2 h 30 m",
 	"autolearn": true,
-	"using": [ [ "soldering_standard", 10 ], [ "welding_standard", 15 ] ],
-	"qualities": [ { "id": "SAW_M_FINE", "level": 1 }, { "id": "SCREW_FINE", "level": 1 }, { "id": "HAMMER", "level": 3 } ],
+	"using": [ [ "soldering_standard", 10 ] ],
+	"qualities": [ { "id": "SAW_M", "level": 1 }, { "id": "SCREW", "level": 1 }, { "id": "HAMMER", "level": 2 } ],
 	"components": [
 	  [ [ "pipe", 4 ] ],
 	  [ [ "2x4", 1 ], [ "stick", 2 ] ],
-	  [ [ "spring", 4 ] ],
+	  [ [ "hose", 2 ] ],
 	  [ [ "metal_tank_little", 2 ] ],
 	  [ [ "steel_chunk", 4 ], [ "scrap",  12 ] ]
 	]
@@ -51,7 +51,7 @@
 	"components": [
 	  [ [ "pipe", 2 ] ],
 	  [ [ "2x4", 2 ], [ "stick", 4 ] ],
-	  [ [ "spring", 4 ] ],
+	  [ [ "spring", 2 ] ],
 	  [ [ "metal_tank_little", 2 ] ],
 	  [ [ "hose", 2 ] ],
 	  [ [ "steel_chunk", 6 ], [ "scrap",  16 ] ]

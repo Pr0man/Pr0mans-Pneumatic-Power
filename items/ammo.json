@@ -14,7 +14,7 @@
     "ammo_type": "rifle_pellet",
     "damage": { "damage_type": "bullet", "amount": 35, "armor_penetration": 5 },
     "range": 25,
-    "dispersion": 125,
+    "dispersion": 200,
     "loudness": 4,
     "count": 25,
 	"effects": [ "NEVER_MISFIRES", "NON_FOULING" ]
