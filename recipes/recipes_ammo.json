@@ -83,7 +83,8 @@
     "qualities": [ { "id": "HAMMER", "level": 2 }, { "id": "ANVIL", "level": 1 } ],
     "tools": [ [ [ "tongs", -1 ] ], [ ["pellet_mold", -1 ] ] ],
     "components": [
-      [ [ "steel_tiny", 2, "LIST" ] ]
+      [ [ "steel_tiny", 3, "LIST" ] ],
+	  [ [ "metal_tank_little", 1 ], [ "sheet_metal_small", 3 ] ]
     ]
   },
   {
