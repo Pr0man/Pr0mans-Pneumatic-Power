@@ -16,5 +16,11 @@
 	"id": "pressurized_shot",
 	"name": "pressurized shot",
 	"default": "pressurized_shot_ball"
+  },
+  {
+    "type": "ammunition_type",
+	"id": "pressurized_rifle",
+	"name": "pressurized rifle ammo",
+	"default": "pressurized_rifle_ball"
   }
 ]
