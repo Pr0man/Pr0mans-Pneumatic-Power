@@ -56,11 +56,12 @@
     "ammo": [ "metal_rail" ],
     "skill": "rifle",
     "dispersion": 150,
-    "ranged_damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 1, "armor_multiplier": 1.5 },
+    "ranged_damage": { "damage_type": "stab", "amount": 5, "armor_penetration": 1, "armor_multiplier": 1.25 },
     "durability": 6,
     "clip_size": 1,
     "ups_charges": 40,
     "reload": 200,
+    "range": 10,
     "valid_mod_locations": [
       [ "emitter", 1 ],
       [ "grip", 1 ],
